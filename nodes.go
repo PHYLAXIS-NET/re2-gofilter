@@ -3,8 +3,9 @@ package gofilter
 import (
 	"bytes"
 	"net"
-	"regexp"
 	"strings"
+
+	regexp "github.com/wasilibs/go-re2"
 )
 
 type node interface {

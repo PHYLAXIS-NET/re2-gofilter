@@ -2,15 +2,17 @@
 
 package gofilter
 
-import __yyfmt__ "fmt"
-
-//line parser.y:4
 import (
 	"fmt"
+	__yyfmt__ "fmt"
 	"net"
-	"regexp"
+
+//line parser.y:4
+
 	"strconv"
 	"strings"
+
+	regexp "github.com/wasilibs/go-re2"
 )
 
 func setResult(filterlex filterLexer, n node) {
