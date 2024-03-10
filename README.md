@@ -83,7 +83,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/kor44/gofilter"
+	"github.com/PHYLAXIS-NET/re2-gofilter"
 	"net"
 )
 
