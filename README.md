@@ -7,7 +7,7 @@ Yacc and Ragel are used for filter parser.
 
 ### Installation
 
-    go get github.com/kor44/gofilter
+    go get github.com/PHYLAXIS-NET/re2-gofilter
 	
 ## Filter syntax
 
