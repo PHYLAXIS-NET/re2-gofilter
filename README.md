@@ -1,6 +1,6 @@
-# Gofilter
+# RE2-Gofilter
 
-Gofilter is a [Go](http://golang.org/) implementation of the
+RE2-Gofilter is a [Go](http://golang.org/) implementation of the
 [Wireshark](https://wireshark.org/) display filter for type Message (map[string]interface{}).
 
 Yacc and Ragel are used for filter parser.
